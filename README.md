@@ -1,0 +1,1 @@
+Lista 02 do curso de Tecnologo em Análise e Desenvolvimento de Sistemas(TADS)
